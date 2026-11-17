@@ -1,9 +1,0 @@
-numpy
-matplotlib
-scikit-learn>=1.4
-torch>=2.2
-torchvision>=0.17
-ipywidgets
-jupyterlab
-# Optionnel, pour le notebook bonus :
-# transformers
